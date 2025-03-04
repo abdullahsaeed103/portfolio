@@ -80,6 +80,7 @@ header #name{
 }
 
 #nav #two a{
+    text-decoration:none;
     background-color: black;
     color: white;
     border-radius: 50px;
@@ -92,7 +93,7 @@ header #name{
     justify-content: center;
 
 }
-#nav #two button i{
+#nav #two a i{
     background-color: transparent;
  font-size: large;
     margin-left: 6px;
@@ -100,7 +101,7 @@ header #name{
 
 
 
-#nav #two button:hover{
+#nav #two a:hover{
     background-color: aqua;
     color: black;
     border-radius: 50px;
