@@ -79,7 +79,7 @@ header #name{
    
 }
 
-#nav #two button{
+#nav #two a{
     background-color: black;
     color: white;
     border-radius: 50px;
